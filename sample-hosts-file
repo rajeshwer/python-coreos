@@ -1,0 +1,7 @@
+
+[coreos]
+x.x.x.x
+
+[coreos:vars]
+ansible_ssh_user=core
+ansible_python_interpreter="/opt/bin/python"
